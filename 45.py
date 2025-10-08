@@ -1,0 +1,2 @@
+import sanjay
+sanjay.welcome()
